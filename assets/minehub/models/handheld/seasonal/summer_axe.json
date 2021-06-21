@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"gui_light": "front",
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "minehub:handheld/seasonal/summer_axe",

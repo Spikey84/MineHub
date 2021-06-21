@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/netherite_chestplate"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":1},"model":"minehub:equipment/epic/chestplate"},
+        {"predicate":{"custom_model_data":2},"model":"minehub:equipment/legendary/chestplate"},
+        {"predicate":{"custom_model_data":3},"model":"minehub:equipment/summer/chestplate"}
+    ]
+}
