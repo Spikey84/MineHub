@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "minehub:logo2"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [30, 16, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 17.5, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#particle"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [4, 4, 0.1]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"firstperson_righthand": {
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"ground": {
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"gui": {
+			"translation": [0, -1.5, 0],
+			"scale": [0.3, 0.3, 0.1]
+		},
+		"head": {
+			"translation": [0, -8.5, 4],
+			"scale": [4, 4, 1.26]
+		},
+		"fixed": {
+			"translation": [0, 10, -0.5],
+			"scale": [4, 4, 0.1]
+		}
+	}
+}

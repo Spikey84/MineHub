@@ -1,0 +1,7 @@
+{
+	"parent": "minehub:handheld/epic/epic_axe",
+	"textures": {
+		"2": "minehub:handheld/legendary/leg_axe",
+		"particle": "minehub:handheld/legendary/leg_axe"
+	}
+}

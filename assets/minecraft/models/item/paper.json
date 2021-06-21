@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1},"model": "minehub:servers/survival"},
+    {"predicate": {"custom_model_data": 2},"model": "minehub:servers/earth"},
+    {"predicate": {"custom_model_data": 3},"model": "minehub:servers/logo"},
+    {"predicate": {"custom_model_data": 4},"model": "minehub:equipment/television_helmet"},
+    {"predicate": {"custom_model_data": 5},"model": "minehub:decorations/book_1"},
+    {"predicate": {"custom_model_data": 6},"model": "minehub:decorations/book_2"},
+    {"predicate": {"custom_model_data": 7},"model": "minehub:decorations/book_3"},
+    {"predicate": {"custom_model_data": 8},"model": "minehub:decorations/book_stack_1"},
+    {"predicate": {"custom_model_data": 9},"model": "minehub:decorations/book_stack_2"},
+    {"predicate": {"custom_model_data": 10},"model": "minehub:decorations/portal"}
+  ]
+}

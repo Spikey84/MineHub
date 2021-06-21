@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/tripwire_hook"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1},"model": "minehub:crate/key/uncommon_key"},
+    {"predicate": {"custom_model_data": 2},"model": "minehub:crate/key/rare_key"},
+    {"predicate": {"custom_model_data": 3},"model": "minehub:crate/key/epic_key"},
+    {"predicate": {"custom_model_data": 4},"model": "minehub:crate/key/legendary_key"},
+    {"predicate": {"custom_model_data": 5},"model": "minehub:crate/key/summer_key"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_shovel"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":1},"model":"minehub:handheld/epic/epic_shovel"},
+        {"predicate":{"custom_model_data":2},"model":"minehub:handheld/legendary/leg_shovel"},
+        {"predicate":{"custom_model_data":3},"model":"minehub:handheld/slegendary/sleg_shovel"},
+        {"predicate":{"custom_model_data":4},"model":"minehub:handheld/seasonal/summer_shovel"}
+    ]
+}

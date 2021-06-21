@@ -1,0 +1,6 @@
+{
+	"parent": "minehub:servers/survival",
+	"textures": {
+		"0": "minehub:servers/earth_logo"
+	}
+}

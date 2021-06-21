@@ -1,0 +1,733 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -1,
+      "chars": [
+        "ꈁ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -3,
+      "chars": [
+        "ꈂ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -4,
+      "chars": [
+        "ꈃ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -5,
+      "chars": [
+        "ꈄ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -6,
+      "chars": [
+        "ꈅ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -7,
+      "chars": [
+        "ꈆ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -8,
+      "chars": [
+        "ꈇ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -9,
+      "chars": [
+        "ꈈ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -10,
+      "chars": [
+        "ꈉ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -11,
+      "chars": [
+        "久"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -18,
+      "chars": [
+        "ꈊ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -34,
+      "chars": [
+        "ꈋ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -48,
+      "chars": [
+        "晕"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -66,
+      "chars": [
+        "ꈌ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -130,
+      "chars": [
+        "ꈍ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -148,
+      "chars": [
+        "暿"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -174,
+      "chars": [
+        "晌"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -179,
+      "chars": [
+        "暝"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -258,
+      "chars": [
+        "ꈎ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -514,
+      "chars": [
+        "ꌁ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": -1026,
+      "chars": [
+        "ꌂ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -65536,
+      "height": -32770,
+      "chars": [
+        "ꌃ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 0,
+      "chars": [
+        "ꌄ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 1,
+      "chars": [
+        "ꌅ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 2,
+      "chars": [
+        "ꌆ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 4,
+      "chars": [
+        "ꌈ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 5,
+      "chars": [
+        "ꌉ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 6,
+      "chars": [
+        "ꌋ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 7,
+      "chars": [
+        "ꌌ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 8,
+      "chars": [
+        "晖"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 15,
+      "chars": [
+        "ꌍ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 31,
+      "chars": [
+        "ꌎ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 63,
+      "chars": [
+        "ꌏ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 127,
+      "chars": [
+        "ꌐ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 255,
+      "chars": [
+        "ꌑ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 511,
+      "chars": [
+        "ꌒ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -32768,
+      "height": 1023,
+      "chars": [
+        "ꌓ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_split.png",
+      "ascent": -65536,
+      "height": 32767,
+      "chars": [
+        "ꌔ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -2,
+      "chars": [
+        "ꌕ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -4,
+      "chars": [
+        "ꌖ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -5,
+      "chars": [
+        "ꌗ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -6,
+      "chars": [
+        "ꌘ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -7,
+      "chars": [
+        "ꌙ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -8,
+      "chars": [
+        "ꌚ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -9,
+      "chars": [
+        "ꌛ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -10,
+      "chars": [
+        "ꌜ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -18,
+      "chars": [
+        "ꌝ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -34,
+      "chars": [
+        "ꌞ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -66,
+      "chars": [
+        "ꌟ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -130,
+      "chars": [
+        "ꌠ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -258,
+      "chars": [
+        "ꌡ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -514,
+      "chars": [
+        "ꌢ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": -1026,
+      "chars": [
+        "ꌣ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -65536,
+      "height": -32770,
+      "chars": [
+        "ꌤ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 0,
+      "chars": [
+        "ꌥ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 1,
+      "chars": [
+        "ꌦ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 2,
+      "chars": [
+        "ꌧ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 3,
+      "chars": [
+        "ꌨ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 4,
+      "chars": [
+        "ꌩ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 5,
+      "chars": [
+        "ꌪ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 6,
+      "chars": [
+        "ꌫ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 7,
+      "chars": [
+        "ꌬ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 15,
+      "chars": [
+        "ꌭ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 31,
+      "chars": [
+        "ꌮ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 63,
+      "chars": [
+        "ꌯ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 127,
+      "chars": [
+        "ꌰ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 255,
+      "chars": [
+        "ꌱ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 511,
+      "chars": [
+        "ꌲ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -32768,
+      "height": 1023,
+      "chars": [
+        "ꌳ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/space_nosplit.png",
+      "ascent": -65536,
+      "height": 32767,
+      "chars": [
+        "ꌴ"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:test.png",
+      "ascent": 28,
+      "height": 120,
+      "chars": [
+        "口回","品唱"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:test.png",
+      "ascent": 48,
+      "height": 60,
+      "chars": [
+        "吗哈","吧呢"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:test.png",
+      "ascent": 220,
+      "height": 576,
+      "chars": [
+        "叫告","吃吹"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:servers/earth.png",
+      "ascent": 80,
+      "height": 380,
+      "chars": [ "认说" ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:servers/survival.png",
+      "ascent": 80,
+      "height": 380,
+      "chars": [ "识谈" ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:servers/oneblock.png",
+      "ascent": 80,
+      "height": 380,
+      "chars": [ "课让" ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:servers/prison.png",
+      "ascent": 80,
+      "height": 380,
+      "chars": [ "讨试" ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:servers/skyblock.png",
+      "ascent": 80,
+      "height": 380,
+      "chars": [ "论词" ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:servers/coming_soon.png",
+      "ascent": 80,
+      "height": 380,
+      "chars": [ "讲诗" ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:bee.png",
+      "ascent": 7,
+      "height": 40,
+      "chars": [
+        "误"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:servers/selected.png",
+      "ascent": 69,
+      "height": 398,
+      "chars": [ "进" ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:servers/selected.png",
+      "ascent": 99,
+      "height": 398,
+      "chars": [ "还" ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minehub:container/blackmarket/input.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": [ "远" ]
+    }
+  ]
+}
