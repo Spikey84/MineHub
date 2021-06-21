@@ -13,6 +13,15 @@
     {"predicate": {"custom_model_data": 7},"model": "minehub:decorations/book_3"},
     {"predicate": {"custom_model_data": 8},"model": "minehub:decorations/book_stack_1"},
     {"predicate": {"custom_model_data": 9},"model": "minehub:decorations/book_stack_2"},
-    {"predicate": {"custom_model_data": 10},"model": "minehub:decorations/portal"}
+    {"predicate": {"custom_model_data": 10},"model": "minehub:decorations/portal"},
+    {"predicate": {"custom_model_data": 100},"model": "minehub:guide/ah"},
+    {"predicate": {"custom_model_data": 101},"model": "minehub:guide/help"},
+    {"predicate": {"custom_model_data": 102},"model": "minehub:guide/house"},
+    {"predicate": {"custom_model_data": 103},"model": "minehub:guide/hub"},
+    {"predicate": {"custom_model_data": 104},"model": "minehub:guide/kits"},
+    {"predicate": {"custom_model_data": 105},"model": "minehub:guide/shop"},
+    {"predicate": {"custom_model_data": 106},"model": "minehub:guide/warps"},
+    {"predicate": {"custom_model_data": 107},"model": "minehub:guide/spawn"},
+    {"predicate": {"custom_model_data": 108},"model": "minehub:guide/settings"}
   ]
 }
