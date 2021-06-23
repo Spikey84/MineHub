@@ -1,2 +1,2 @@
 # MineHub
-Official MineHub Resource Pack
+Official MineHub Resource Pack!
