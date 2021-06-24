@@ -1,2 +1,2 @@
 https://github.com/LBuke/MineHub/raw/main/MineHub.zip
-159becbe81c443c82dd4e0c0d3a28a7200c1a67b
+977203fef24a2e21a7a47fbb906a767654314cfd
